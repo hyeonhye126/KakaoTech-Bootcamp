@@ -10,5 +10,4 @@
 ## 👩🏻‍💻
 - 박현혜(hyeonhye126@gmail.com)
 
-<img width="1019" src="[https://github.com/user-attachments/assets/58175cc4-2bd5-4614-b0af-7bd98db9a57a]">
-![Description](https://github.com/user-attachments/assets/58175cc4-2bd5-4614-b0af-7bd98db9a57a)
+<img width="1019" src="https://github.com/user-attachments/assets/58175cc4-2bd5-4614-b0af-7bd98db9a57a">
