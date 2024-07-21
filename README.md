@@ -1,5 +1,5 @@
 # KakaoTech Bootcamp
-### 카카오테크 부트캠프 - 인공지능 과정(생성형 AI)
+## 카카오테크 부트캠프 - 인공지능 과정(생성형 AI)
 <img width="500" src="https://github.com/user-attachments/assets/58175cc4-2bd5-4614-b0af-7bd98db9a57a">
 <br>
 
